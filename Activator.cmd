@@ -10,7 +10,7 @@ slmgr.vbs /upk
 timeout 3 /nobreak
 slmgr.vbs /cpky
 timeout 3 /nobreak
-slmgr.vbs /ipk "7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH"
+slmgr.vbs /ipk "TX9XD-98N7V-6WMQ6-H8Q99"
 timeout 3 /nobreak
 slmgr.vbs /skms kms9.MSGuides.com
 timeout 3 /nobreak
